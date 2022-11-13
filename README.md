@@ -19,10 +19,4 @@
 <br />
 <br />
 
-<details>
-  <summary>📊 Statistics:</summary>
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TemaTerbi&show_icons=true" />
-</details>
-
 [Telegram]: https://t.me/golikovartyom
