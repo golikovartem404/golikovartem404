@@ -1,7 +1,7 @@
 ## 🙋🏻‍♂️ Welcome! 👋🏻 
 
 ## 🥶 About me 
-✌🏻 My name is Artem, I'am a self-taught iOS developer with about 1 year of commercial development experience and a great IT background 🍏
+✌🏻 My name is Artem, I'am a self-taught iOS developer with about 2 year of commercial development experience and a great IT background 🍏
 - 🧑🏻‍💻 Try every day to improve the quality of the code
 - 💡 I like to learn new things and improve my knowledge over time
 - 👥 I'am a very open, sociable and friendly person
